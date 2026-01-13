@@ -1,2 +1,13 @@
-# Windows-10-11-Update-Admin-Tool
-AIO Powershell tool. Disable &amp; enable Windows updates for OS, clear update downloads &amp; cache and check service statuses. Leaves defender untouched.
+# Windows 10 & 11 Update Admin Tool
+
+A menu-driven PowerShell utility to disable Windows OS updates, clear update caches while keeping Microsoft Defender security updates working.
+
+---
+
+# What This Tool Does
+
+- Disable Windows Update services, policies, and scheduled tasks
+- Prevent automatic OS and feature updates
+- Clear downloaded and pending Windows Update files
+- Keep Microsoft Defender signature updates enabled
+- Restore everything back to default & safe to re-run
