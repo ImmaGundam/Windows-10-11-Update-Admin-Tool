@@ -2,6 +2,8 @@
 
 A menu-driven PowerShell utility to disable Windows OS updates, clear update caches while keeping Microsoft Defender security updates working.
 
+![menu](https://github.com/user-attachments/assets/be6c937f-790b-4809-ac79-5a7169404d04)
+
 ---
 
 # What This Tool Does
